@@ -1,0 +1,27 @@
+
+body{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  
+}
+.card-image{
+    height:100%;
+    width:100%;
+}
+
+.sidecard{
+    background-image: url("https://images.pexels.com/photos/358457/pexels-photo-358457.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-size: cover;
+    
+    
+  
+}
+
+/* .overflow{
+    white-space: nowrap; 
+   
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    
+} */
